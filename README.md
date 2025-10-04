@@ -5,7 +5,7 @@
   <br>
   <br>
   
- [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+ [![CC License](https://img.shields.io/badge/License-CC-green.svg)](https://choosealicense.com/licenses/mit/)
 
   
 </div>
