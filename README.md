@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="img/GridCSS.svg" alt="GridCSS logo" width="90px" height="90px"/>
-  <h3>GridCSS</h3>
+  <img src="GridCSS.svg" alt="GridCSS logo" width="90px" height="90px"/>
+  <h2>GridCSS</h2>
   <code style="padding:10px;">https://cdn.jsdelivr.net/gh/FCzajkowski/GridCSS/grid.css</code>
 </div>
 
