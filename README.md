@@ -1,7 +1,7 @@
 <div align="center">
   <img src="GridCSS.svg" alt="GridCSS logo" width="90px" height="90px"/>
   <h2>GridCSS</h2>
-  <code style="padding:10px;">https://cdn.jsdelivr.net/gh/FCzajkowski/GridCSS/grid.css</code>
+  <code style="padding:10px;">&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/FCzajkowski/GridCSS/grid.css"&gt;</code>
   <br>
   <br>
   
